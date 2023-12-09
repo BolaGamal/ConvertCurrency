@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "37E2CB30-F3D7-4F40-B537-59B04BF6D94D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABF1B45B-7631-4324-BEE2-30FE460F3AF2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConvertCurrency/Presentation/ConvertCurrencyModule/ConvertCurrenctService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getAllCurrencies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ABF1B45B-7631-4324-BEE2-30FE460F3AF2 - a5b0076c86e681b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, ConvertCurrency.APIError&gt;) -&gt; () in ConvertCurrency.ConvertCurrenctService.getAllCurrencies() -&gt; ()"
+                  moduleName = "ConvertCurrency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/IOS%20Swift/ConvertCurrency/ConvertCurrency/Presentation/ConvertCurrencyModule/ConvertCurrenctService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "836">
+               </Location>
+               <Location
+                  uuid = "ABF1B45B-7631-4324-BEE2-30FE460F3AF2 - a5b0076c86e681b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, ConvertCurrency.APIError&gt;) -&gt; () in ConvertCurrency.ConvertCurrenctService.getAllCurrencies() -&gt; ()"
+                  moduleName = "ConvertCurrency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/IOS%20Swift/ConvertCurrency/ConvertCurrency/Presentation/ConvertCurrencyModule/ConvertCurrenctService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "840">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
